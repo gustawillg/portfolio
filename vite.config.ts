@@ -14,6 +14,7 @@ import LinkAttributes from 'markdown-it-link-attributes'
 import Unocss from 'unocss/vite'
 import Shiki from 'markdown-it-shiki'
 import WebfontDownload from 'vite-plugin-webfont-dl'
+import UnocssIcons from '@unocss/preset-icons'
 
 export default defineConfig({
   resolve: {
@@ -67,7 +68,16 @@ export default defineConfig({
 
     // https://github.com/antfu/unocss
     // see uno.config.ts for config
-    Unocss(),
+    Unocss({
+      presets: [
+        UnocssIcons({
+          prefix:'i-',
+          extraProperties: {
+            display: 'incline-block'
+          }
+        })
+      ]
+    }),
 
     // https://github.com/unplugin/unplugin-vue-markdown
     // Don't need this? Try vitesse-lite: https://github.com/antfu/vitesse-lite
