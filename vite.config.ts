@@ -14,7 +14,6 @@ import LinkAttributes from 'markdown-it-link-attributes'
 import Unocss from 'unocss/vite'
 import Shiki from 'markdown-it-shiki'
 import WebfontDownload from 'vite-plugin-webfont-dl'
-import presetIcons from '@unocss/preset-icons';
 
 export default defineConfig({
   resolve: {
@@ -135,14 +134,6 @@ export default defineConfig({
 
     // https://github.com/webfansplz/vite-plugin-vue-devtools
 
-    UnoCSS({
-      presets: [
-          presetIcons({
-              /* options */
-          }),
-          // ...other presets
-      ],
-   });
   ],
 
   // https://github.com/vitest-dev/vitest

@@ -42,7 +42,10 @@
         </div>
         <article>
           <div class="slide-enter-content m-auto prose">
-            <p>Olá, sou o Gustavo e sou frontend developer <span class="iconify" data-icon="logos:google-developers" />.</p>
+            <p>
+              Olá, sou o Gustavo e sou frontend developer .
+            </p>
+            <div class="i-ph-anchor-simple-thin" />
             <p>
               Working at <a href="https://nuxtlabs.com/" target="_blank" rel="noopener"><span
                 i-simple-icons-nuxtdotjs=""
@@ -111,10 +114,11 @@
             </p>
             <p>
               If you enjoy my works, consider sponsoring me on <a
-                href="https://github.com/sponsors/antfu"
-                target="_blank" rel="noopener"
+                href="https://github.com/sponsors/antfu" target="_blank"
+                rel="noopener"
               ><span i-carbon-favorite="" /> GitHub Sponsor</a> or <a
-                href="https://afdian.net/a/antfu" target="_blank" rel="noopener"
+                href="https://afdian.net/a/antfu"
+                target="_blank" rel="noopener"
               ><span i-carbon-lightning="" />
                 爱发电</a> to keep them sustainable.
             </p>
@@ -122,7 +126,8 @@
         </article>
         <div class="slide-enter m-auto mb-6 mt-10 flex prose animate-delay-1200!">
           <span class="text-sm op50"><a
-            target="_blank" href="https://creativecommons.org/licenses/by-nc-sa/4.0/" style="color: inherit;"
+            target="_blank" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"
+            style="color: inherit;"
           >CC
             BY-NC-SA 4.0</a> 2021-PRESENT © Anthony Fu</span>
           <div class="flex-auto" />
