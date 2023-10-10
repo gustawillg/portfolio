@@ -42,7 +42,7 @@
         </div>
         <article>
           <div class="slide-enter-content m-auto prose">
-            <p>Hey, I am Anthony Fu, a fanatical open sourceror.</p>
+            <p>Olá, sou o Gustavo e sou frontend developer <span class="iconify" data-icon="logos:google-developers" />.</p>
             <p>
               Working at <a href="https://nuxtlabs.com/" target="_blank" rel="noopener"><span
                 i-simple-icons-nuxtdotjs=""

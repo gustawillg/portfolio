@@ -10,11 +10,11 @@ import Markdown from 'unplugin-vue-markdown/vite'
 import VueMacros from 'unplugin-vue-macros/vite'
 import VueI18n from '@intlify/unplugin-vue-i18n/vite'
 import { VitePWA } from 'vite-plugin-pwa'
-import VueDevTools from 'vite-plugin-vue-devtools'
 import LinkAttributes from 'markdown-it-link-attributes'
 import Unocss from 'unocss/vite'
 import Shiki from 'markdown-it-shiki'
 import WebfontDownload from 'vite-plugin-webfont-dl'
+import presetIcons from '@unocss/preset-icons';
 
 export default defineConfig({
   resolve: {
@@ -134,7 +134,15 @@ export default defineConfig({
     WebfontDownload(),
 
     // https://github.com/webfansplz/vite-plugin-vue-devtools
-    VueDevTools(),
+
+    UnoCSS({
+      presets: [
+          presetIcons({
+              /* options */
+          }),
+          // ...other presets
+      ],
+   });
   ],
 
   // https://github.com/vitest-dev/vitest
