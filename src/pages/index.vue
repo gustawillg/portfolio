@@ -43,32 +43,7 @@
         <article>
           <div class="slide-enter-content m-auto prose">
             <p>
-              Olá, sou o Gustavo e sou frontend developer .
-            </p>
-            <div class="i-ph-anchor-simple-thin" />
-            <p>
-              Working at <a href="https://nuxtlabs.com/" target="_blank" rel="noopener"><span
-                i-simple-icons-nuxtdotjs=""
-              /> NuxtLabs</a>.<br> Creator of <a
-                href="https://github.com/vitest-dev/vitest" target="_blank" rel="noopener"
-              >Vitest</a>, <a
-                href="https://github.com/slidevjs/slidev" target="_blank" rel="noopener"
-              >Slidev</a>, <a
-                href="https://github.com/vueuse/vueuse" target="_blank" rel="noopener"
-              >VueUse</a>, <a
-                href="https://github.com/antfu/unocss" target="_blank" rel="noopener"
-              >UnoCSS</a>, <a
-                href="https://github.com/elk-zone/elk" target="_blank" rel="noopener"
-              >Elk</a>, <a
-                href="https://github.com/type-challenges/type-challenges" target="_blank" rel="noopener"
-              >Type
-                Challenges</a> and <a href="/projects">others</a>.<br> Core team member of <a
-                href="https://vuejs.org/"
-                target="_blank" rel="noopener"
-              >Vue</a>, <a
-                href="http://nuxtjs.org/" target="_blank"
-                rel="noopener"
-              >Nuxt</a> and <a href="http://vitejs.dev/" target="_blank" rel="noopener">Vite</a>.<br>
+              Olá, sou o Gustavo e sou frontend developer.
             </p>
             <p>
               Dreaming up ideas and making them come true is where my passion lies. You can find my <a
