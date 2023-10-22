@@ -58,55 +58,14 @@
               in the same city I live (currently in Paris), maybe we can hang out and take some photos or code together.
             </p>
             <div flex-auto="" />
-            <p>Find me on</p>
+            <p>Me ache em:</p>
             <p flex="~ gap-3 wrap" class="mt--2!">
-              <a href="https://github.com/antfu" target="_blank"><span op75="" i-simple-icons-github="" /> GitHub</a><a
+              <a href="https://github.com/coartem" target="_blank"><span op75="" i-simple-icons-github="" /> GitHub</a><a
                 href="https://elk.zone/m.webtoo.ls/@antfu" target="_blank"
-              ><span op75="" i-simple-icons-mastodon="" />
-                Mastodon</a><a href="https://www.twitter.com/antfu7" target="_blank"><span
-                op75=""
-                i-simple-icons-twitter=""
               />
-                Twitter</a><a href="https://chat.antfu.me" target="_blank"><span op75="" i-simple-icons-discord="" />
-                Discord Server</a><a href="https://www.youtube.com/anthonyfu7" target="_blank"><span
-                op75=""
-                i-simple-icons-youtube=""
-              /> YouTube</a><a href="https://www.twitch.tv/antfu7" target="_blank"><span
-                op75="" i-simple-icons-twitch=""
-              /> Twitch</a><a
-                href="https://www.instagram.com/antfu7"
-                target="_blank"
-              ><span op75="" i-simple-icons-instagram="" />
-                Instagram</a><a href="https://www.zhihu.com/people/antfu" target="_blank"><span
-                op75=""
-                i-simple-icons-zhihu=""
-              /> 知乎</a><a href="https://weibo.com/u/7485197193" target="_blank"><span
-                op75=""
-                i-simple-icons-sinaweibo=""
-              /> 微博</a><a href="https://space.bilibili.com/668380" target="_blank"><span
-                op75="" i-simple-icons-bilibili=""
-              /> 哔哩哔哩</a>
-            </p>
-            <p>
-              If you enjoy my works, consider sponsoring me on <a
-                href="https://github.com/sponsors/antfu" target="_blank"
-                rel="noopener"
-              ><span i-carbon-favorite="" /> GitHub Sponsor</a> or <a
-                href="https://afdian.net/a/antfu"
-                target="_blank" rel="noopener"
-              ><span i-carbon-lightning="" />
-                爱发电</a> to keep them sustainable.
             </p>
           </div>
         </article>
-        <div class="slide-enter m-auto mb-6 mt-10 flex prose animate-delay-1200!">
-          <span class="text-sm op50"><a
-            target="_blank" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"
-            style="color: inherit;"
-          >CC
-            BY-NC-SA 4.0</a> 2021-PRESENT © Anthony Fu</span>
-          <div class="flex-auto" />
-        </div>
       </main>
     </div>
   </body>
