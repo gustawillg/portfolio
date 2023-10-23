@@ -43,13 +43,12 @@
         <article>
           <div class="slide-enter-content m-auto prose">
             <p>
-              Olá, sou o Gustavo e sou frontend developer.
-            </p>
-            <p>
-              asdasda
+              Olá, normalmente uso o nick de Coartem
+            </p><p>
+              a
               <a
                 href="/projects"
-              >Todos meus projetos estão aqu</a>.
+              >todos meus projetos estão aqui</a>.
             </p><p>
               Outside of programming, I enjoy doing photography and traveling. Some of my photos can be found on <a
                 href="https://www.instagram.com/antfu7" target="_blank" rel="noopener"
