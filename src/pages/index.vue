@@ -46,12 +46,11 @@
               Olá, sou o Gustavo e sou frontend developer.
             </p>
             <p>
-              Dreaming up ideas and making them come true is where my passion lies. You can find my <a
+              asdasda
+              <a
                 href="/projects"
-              >full projects list here</a>. I also do some generative-art, compform, interactivity
-              experiments on <a href="https://100.antfu.me/" target="_blank" rel="noopener">100.antfu.me</a>.
-            </p>
-            <p>
+              >Todos meus projetos estão aqu</a>.
+            </p><p>
               Outside of programming, I enjoy doing photography and traveling. Some of my photos can be found on <a
                 href="https://www.instagram.com/antfu7" target="_blank" rel="noopener"
               >Instagram</a>. If you happen to be
