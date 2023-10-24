@@ -43,17 +43,12 @@
         <article>
           <div class="slide-enter-content m-auto prose">
             <p>
-              Olá, normalmente uso o nick de Coartem
+              Olá, sou o Gustavo e seja bem vindo ao meu portfolio!
             </p><p>
-              a
+              Atualmente, estudo frontend, porém amo aprender de tudo, atualmente estudo php e backend,
               <a
                 href="/projects"
               >todos meus projetos estão aqui</a>.
-            </p><p>
-              Outside of programming, I enjoy doing photography and traveling. Some of my photos can be found on <a
-                href="https://www.instagram.com/antfu7" target="_blank" rel="noopener"
-              >Instagram</a>. If you happen to be
-              in the same city I live (currently in Paris), maybe we can hang out and take some photos or code together.
             </p>
             <div flex-auto="" />
             <p>Me ache em:</p>
