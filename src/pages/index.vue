@@ -27,6 +27,12 @@
             </g>
           </svg>
         </a>
+        <nav data-v-14f5f3d7 class="nav">
+          <div data-v-14f5f3d7 class="spacer" />
+          <div data-v-14f5f3d7="" class="right" print:op0="">
+            <a data-v-14f5f3d7="" href="/posts" class="" title="Blog"><span data-v-14f5f3d7="" class="lt-md:hidden">Blog</span><div data-v-14f5f3d7="" i-ri-article-line="" md:hidden="" /></a><a data-v-14f5f3d7="" href="/projects" class="" title="Projects"><span data-v-14f5f3d7="" class="lt-md:hidden">Projects</span><div data-v-14f5f3d7="" i-ri-lightbulb-line="" class="md:hidden" /></a><a data-v-14f5f3d7="" href="/talks" class="lt-md:hidden" title="Talks"> Talks </a><a data-v-14f5f3d7="" href="/podcasts" class="lt-md:hidden" title="Podcasts"> Podcasts </a><a data-v-14f5f3d7="" href="/demos" class="" title="Demos"><span data-v-14f5f3d7="" class="lt-md:hidden">Demos</span><div data-v-14f5f3d7="" i-ri-screenshot-line="" class="md:hidden" /></a><a data-v-14f5f3d7="" href="/chat" class="" title="Let's Chat"><div data-v-14f5f3d7="" i-ri-chat-1-line="" /></a><a data-v-14f5f3d7="" href="/sponsors-list" class="" title="Sponsors"><div data-v-14f5f3d7="" i-ri-user-heart-line="" /></a><a data-v-14f5f3d7="" href="https://twitter.com/antfu7" target="_blank" title="Twitter" class="lt-md:hidden"><svg data-v-14f5f3d7="" class="inline" viewBox="0 0 24 24" width="1.2em" height="1.2em" style="vertical-align: sub;"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M23 3a10.9 10.9 0 0 1-3.14 1.53a4.48 4.48 0 0 0-7.86 3v1A10.66 10.66 0 0 1 3 4s-4 9 5 13a11.64 11.64 0 0 1-7 2c9 5 20 0 20-11.5a4.5 4.5 0 0 0-.08-.83A7.72 7.72 0 0 0 23 3z" /></svg></a><a data-v-14f5f3d7="" href="https://github.com/antfu" target="_blank" title="GitHub" class="lt-md:hidden"><div data-v-14f5f3d7="" i-uil-github-alt="" /></a><a data-v-14f5f3d7="" href="/feed.xml" target="_blank" title="RSS" class="lt-md:hidden"><div data-v-14f5f3d7="" i-la-rss-square="" style="font-size: 1.25rem; margin: 0px -0.125rem;" /></a><a data-v-14f5f3d7="" class="select-none" title="Toggle Color Scheme"><div i-ri-sun-line="" dark:i-ri-moon-line="" /></a>
+          </div>
+        </nav>
       </header>
       <main class="of-x-hidden px-7 py-10">
         <div
