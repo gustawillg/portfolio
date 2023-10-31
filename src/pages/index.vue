@@ -3,7 +3,7 @@
     <div id="app" data-server-rendered="true" data-v-app>
       <header data-v-14f5f3d7 class="header z-40">
         <nav class="bg-transparent">
-          <div class="mx-auto max-w-7xl px-2 lg:px-8 sm:px-6">
+          <div class="flex items-center justify-center">
             <div class="relative h-16 flex items-center justify-between">
               <div class="absolute inset-y-0 left-0 flex items-center sm:hidden" />
               <div class="flex flex-1 items-center justify-center sm:items-stretch sm:justify-start">
@@ -11,20 +11,20 @@
                 <div class="hidden sm:ml-6 sm:block">
                   <div class="flex space-x-4">
                     <a
-                      href="#" class="rounded-md bg-white px-3 py-2 text-sm font-medium text-black"
+                      href="#" class="rounded-md px-3 py-2 text-sm font-medium text-black hover:bg-gray-700"
                       aria-current="page"
                     >Dashboard</a>
                     <a
                       href="#"
-                      class="rounded-md px-3 py-2 text-sm font-medium text-black hover:bg-gray-700 hover:text-white"
+                      class="rounded-md px-3 py-2 text-sm font-medium"
                     >Team</a>
                     <a
                       href="#"
-                      class="rounded-md px-3 py-2 text-sm font-medium text-black hover:bg-gray-700 hover:text-white"
+                      class="rounded-md px-3 py-2 text-sm font-medium text-black hover:bg-gray-700"
                     >Projects</a>
                     <a
                       href="#"
-                      class="rounded-md px-3 py-2 text-sm font-medium text-black hover:bg-gray-700 hover:text-white"
+                      class="rounded-md px-3 py-2 text-sm font-medium"
                     >Calendar</a>
                   </div>
                 </div>
@@ -42,15 +42,15 @@
               >Dashboard</a>
               <a
                 href="#"
-                class="block rounded-md px-3 py-2 text-base font-medium text-gray-300 hover:bg-gray-700 hover:text-white"
+                class="block rounded-md px-3 py-2 text-base font-medium text-gray-300"
               >Team</a>
               <a
                 href="#"
-                class="block rounded-md px-3 py-2 text-base font-medium text-gray-300 hover:bg-gray-700 hover:text-white"
+                class="block rounded-md px-3 py-2 text-base font-medium text-gray-300"
               >Projects</a>
               <a
                 href="#"
-                class="block rounded-md px-3 py-2 text-base font-medium text-gray-300 hover:bg-gray-700 hover:text-white"
+                class="block rounded-md px-3 py-2 text-base font-medium text-gray-300"
               >Calendar</a>
             </div>
           </div>
