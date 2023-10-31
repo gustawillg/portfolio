@@ -11,21 +11,12 @@
                 <div class="hidden sm:ml-6 sm:block">
                   <div class="flex space-x-4">
                     <a
-                      href="#" class="rounded-md px-3 py-2 text-sm font-medium text-black hover:bg-gray-700"
+                      href="#" class="rounded-md px-3 py-2 text-sm font-medium text-black hover:underline"
                       aria-current="page"
                     >Dashboard</a>
-                    <a
-                      href="#"
-                      class="rounded-md px-3 py-2 text-sm font-medium"
-                    >Team</a>
-                    <a
-                      href="#"
-                      class="rounded-md px-3 py-2 text-sm font-medium text-black hover:bg-gray-700"
-                    >Projects</a>
-                    <a
-                      href="#"
-                      class="rounded-md px-3 py-2 text-sm font-medium"
-                    >Calendar</a>
+                    <a href="#" class="text-balck rounded-md px-3 py-2 text-sm font-medium hover:text-red">Team</a>
+                    <a href="#" class="rounded-md px-3 py-2 text-sm font-medium text-black hover:underline">Projects</a>
+                    <a href="#" class="rounded-md px-3 py-2 text-sm font-medium">Calendar</a>
                   </div>
                 </div>
               </div>
@@ -40,18 +31,9 @@
                 href="#" class="block rounded-md bg-gray-900 px-3 py-2 text-base font-medium text-white"
                 aria-current="page"
               >Dashboard</a>
-              <a
-                href="#"
-                class="block rounded-md px-3 py-2 text-base font-medium text-gray-300"
-              >Team</a>
-              <a
-                href="#"
-                class="block rounded-md px-3 py-2 text-base font-medium text-gray-300"
-              >Projects</a>
-              <a
-                href="#"
-                class="block rounded-md px-3 py-2 text-base font-medium text-gray-300"
-              >Calendar</a>
+              <a href="#" class="block rounded-md px-3 py-2 text-base font-medium text-gray-300">Team</a>
+              <a href="#" class="block rounded-md px-3 py-2 text-base font-medium text-gray-300">Projects</a>
+              <a href="#" class="block rounded-md px-3 py-2 text-base font-medium text-gray-300">Calendar</a>
             </div>
           </div>
         </nav>
@@ -74,9 +56,14 @@
               Olá, sou o Gustavo e seja bem vindo ao meu portfolio!
             </p>
             <p>
+              Sempre me conectei com a tecnologia, desde novo, seja com games ou pesquisando sobre, ja que meu primeiro
+              computador foi quando tinha apenas 6 anos. Com isso me conectei rapidamente com a programação, com meus 13 anos ja tive meu primeiro contato.
+            </p>
+            <p>
               Atualmente, estudo frontend, porém amo aprender de tudo, atualmente estudo php e backend,
               <a href="/projects">todos meus projetos estão aqui</a>.
             </p>
+
             <div flex-auto="" />
             <p>Me ache em:</p>
             <p flex="~ gap-3 wrap" class="mt--2!">
