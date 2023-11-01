@@ -11,12 +11,12 @@
                 <div class="hidden sm:ml-6 sm:block">
                   <div class="flex space-x-4">
                     <a
-                      href="#" class="rounded-md px-3 py-2 text-sm font-medium text-black hover:underline"
+                      href="#" class="px-3 py-2 text-sm font-medium text-black hover:text-orange"
                       aria-current="page"
                     >Dashboard</a>
-                    <a href="#" class="text-balck rounded-md px-3 py-2 text-sm font-medium hover:text-red">Team</a>
-                    <a href="#" class="rounded-md px-3 py-2 text-sm font-medium text-black hover:underline">Projects</a>
-                    <a href="#" class="rounded-md px-3 py-2 text-sm font-medium">Calendar</a>
+                    <a href="#" class="px-3 py-2 text-sm font-medium text-black hover:text-orange">Team</a>
+                    <a href="#" class="px-3 py-2 text-sm font-medium text-black hover:text-orange">Projects</a>
+                    <a href="#" class="px-3 py-2 text-sm font-medium text-black hover:text-orange">Calendar</a>
                   </div>
                 </div>
               </div>
@@ -28,12 +28,12 @@
             <div class="px-2 pb-3 pt-2 space-y-1">
               <!-- Current: "bg-gray-900 text-white", Default: "text-gray-300 hover:bg-gray-700 hover:text-white" -->
               <a
-                href="#" class="block rounded-md bg-gray-900 px-3 py-2 text-base font-medium text-white"
+                href="#" class="block rounded-md px-3 py-2 text-base font-medium text-black hover:text-orange"
                 aria-current="page"
               >Dashboard</a>
-              <a href="#" class="block rounded-md px-3 py-2 text-base font-medium text-gray-300">Team</a>
-              <a href="#" class="block rounded-md px-3 py-2 text-base font-medium text-gray-300">Projects</a>
-              <a href="#" class="block rounded-md px-3 py-2 text-base font-medium text-gray-300">Calendar</a>
+              <a href="#" class="block rounded-md px-3 py-2 text-base font-medium text-black hover:text-orange">Team</a>
+              <a href="#" class="block rounded-md px-3 py-2 text-base font-medium text-black hover:text-orange">Projects</a>
+              <a href="#" class="block rounded-md px-3 py-2 text-base font-medium text-black hover:text-orange">Calendar</a>
             </div>
           </div>
         </nav>
