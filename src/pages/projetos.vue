@@ -23,7 +23,73 @@
     </div>
 
     <section class="section4 container">
-      <h1>awdadwa</h1>
+      <div class="display-flex-projects">
+        <!-- Botão para ativar modal -->
+        <button type="button" class="buttonClass custom-card mx-2 my-2 rounded-4" data-bs-toggle="modal" data-bs-target="#exampleModal1">
+          <img src="images/img1.png" alt="certificado-1">
+        </button>
+
+        <!-- Modal -->
+        <div id="exampleModal1" class="modal fade" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+          <div class="modal-dialog modal-lg">
+            <div class="modal-content borda-modal">
+              <div class="modal-body rounded-4 text-center">
+                <img class="img-fluid mx-auto rounded-4" src="images/img1.png" alt="certificado-1">
+
+                <button type="button" class="buttonClass font-style-title mt-3 rounded-4">
+                  <a class="font-color-title" href="https://aluguel-carros-pi.vercel.app/" target="_blank" title="Visitar projeto">
+                    <i class="fa-regular fa-file" /> Ver projeto
+                  </a>
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Botão para ativar modal -->
+        <button type="button" class="buttonClass custom-card mx-2 my-2 rounded-4" data-bs-toggle="modal" data-bs-target="#exampleModal2">
+          <img class="img-fluid mx-auto" src="images/img2.png" alt="certificado-1">
+        </button>
+
+        <!-- Modal2 -->
+        <div id="exampleModal2" class="modal fade" tabindex="-1" aria-labelledby="exampleModalLabel" style="display: none;" aria-hidden="true">
+          <div class="modal-dialog modal-lg">
+            <div class="modal-content borda-modal">
+              <div class="modal-body rounded-4 text-center">
+                <img class="img-fluid mx-auto rounded-4" src="images/img2.png" alt="certificado-1">
+
+                <button type="button" class="buttonClass font-style-title mt-3 rounded-4">
+                  <a href="https://cruise-on-douglas-to.vercel.app/" target="_blank" title="Visitar projeto" class="font-color-title">
+                    <i class="fa-regular fa-file" /> Ver projeto
+                  </a>
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Botão para ativar modal -->
+        <button type="button" class="buttonClass custom-card mx-2 my-2 rounded-4" data-bs-toggle="modal" data-bs-target="#exampleModal3">
+          <img class="img-fluid mx-auto" src="images/img3.png" alt="certificado-1">
+        </button>
+
+        <!-- Moda3 -->
+        <div id="exampleModal3" class="modal fade" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+          <div class="modal-dialog modal-lg">
+            <div class="modal-content borda-modal">
+              <div class="modal-body rounded-4 text-center">
+                <img class="img-fluid mx-auto rounded-4" src="images/img3.png" alt="certificado-1">
+
+                <button type="button" class="buttonClass font-style-title mt-3 rounded-4">
+                  <a href="https://theocritean-specifi.000webhostapp.com/" target="_blank" title="Visitar projeto" class="font-color-title">
+                    <i class="fa-regular fa-file" /> Ver projeto
+                  </a>
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
     </section>
   </div>
 </template>
