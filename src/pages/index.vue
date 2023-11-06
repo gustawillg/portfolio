@@ -5,7 +5,7 @@
         <nav class="bg-transparent">
           <div class="mx-auto max-w-7xl px-4">
             <div class="flex items-center justify-between py-4">
-              <a href="/home" class="text-3 text-black sm:text-4">G.w</a>
+              <a href="/" class="text-3 text-black sm:text-4">G.w</a>
               <div class="md:flex space-x-4">
                 <!-- Links visíveis na versão desktop -->
                 <a href="/projetos" class="text-3 text-black sm:text-4 hover:text-orange">Projetos</a>
