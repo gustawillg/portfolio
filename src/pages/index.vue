@@ -39,7 +39,7 @@
               anos ja tive meu primeiro contato.
             </p>
             <p>
-              Atualmente, estudo frontend, porém amo aprender de tudo, atualmente estudo php e backend,
+              Atualmente, estudo frontend, porém amo aprender de tudo, atualmente estudo backend,
               <a href="/projects">todos meus projetos estão aqui</a>.
             </p>
 
