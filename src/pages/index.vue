@@ -35,7 +35,7 @@
             </p>
             <p>
               Sempre me conectei com a tecnologia, desde novo, seja com games ou pesquisando sobre, ja que meu primeiro
-              computador foi quando tinha apenas 6 anos. Com isso me conectei rapidamente com a programação, com meus 13
+              computador foi quando tinha apenas 6 anos. Com isso me conectei rapidamente com a programação, com meus 14
               anos ja tive meu primeiro contato.
             </p>
             <p>
@@ -46,9 +46,7 @@
             <div flex-auto="" />
             <p>Me ache em:</p>
             <p flex="~ gap-3 wrap" class="mt--2!">
-              <a href="https://github.com/coartem" target="_blank"><span op75="" i-simple-icons-github="" /> GitHub</a><a
-                href="https://elk.zone/m.webtoo.ls/@antfu" target="_blank"
-              />
+              <a href="https://github.com/gustawillg" target="_blank">GitHub</a>
             </p>
           </div>
         </article>
