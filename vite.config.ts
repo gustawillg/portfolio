@@ -20,6 +20,7 @@ export default defineConfig({
   resolve: {
     alias: {
       '~/': `${path.resolve(__dirname, 'src')}/`,
+      '@headlessui/vue': path.resolve(__dirname, 'node_modules/@headlessui/vue'),
     },
   },
 
@@ -71,12 +72,12 @@ export default defineConfig({
     Unocss({
       presets: [
         UnocssIcons({
-          prefix:'i-',
+          prefix: 'i-',
           extraProperties: {
-            display: 'incline-block'
-          }
-        })
-      ]
+            display: 'incline-block',
+          },
+        }),
+      ],
     }),
 
     // https://github.com/unplugin/unplugin-vue-markdown
