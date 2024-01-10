@@ -2,10 +2,24 @@
 const products = [
   {
     id: 1,
-    name: 'Site de reserva de hoteis',
-    href: '#',
+    name: 'Site de reserva de hoteis.',
+    href: 'https://github.com/gustawillg/reserva-de-hoteis',
     imageSrc: '/images/hotel.png',
     imageAlt: 'Site de reserva de hoteis.',
+  },
+  {
+    id: 1,
+    name: 'Site sobre o manga vagabond.',
+    href: 'https://github.com/gustawillg/vagabond-project',
+    imageSrc: '/images/vagabond.png',
+    imageAlt: 'Site sobre o manga vagabond.',
+  },
+  {
+    id: 1,
+    name: 'Gerador de senha.',
+    href: 'https://github.com/gustawillg/gerador-de-senha',
+    imageSrc: '/images/gerador de senha.png',
+    imageAlt: 'Gerador de senha.',
   },
 // More products...
 ]
@@ -41,7 +55,7 @@ const products = [
           <div class="mt-4 flex justify-between">
             <div>
               <h3 class="text-sm text-gray-700">
-                <a :href="product.href">
+                <a :href="product.href" target="_blank">
                   <span aria-hidden="true" class="absolute inset-0" />
                   {{ product.name }}
                 </a>
