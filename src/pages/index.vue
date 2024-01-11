@@ -38,7 +38,7 @@
             </p>
             <p>
               Atualmente, estudo frontend, porém amo aprender de tudo, atualmente estudo backend,
-              <a href="/projects">todos meus projetos estão aqui</a>.
+              <a href="/projetos">todos meus projetos estão aqui</a>.
             </p>
 
             <p flex="~ gap-3 wrap" class="mt--2!">
