@@ -9,7 +9,6 @@
               <div class="md:flex space-x-4">
                 <!-- Links visíveis na versão desktop -->
                 <a href="/projetos" class="text-3 text-black sm:text-4 hover:text-orange">Projetos</a>
-                <a href="/demos" class="text-3 text-black sm:text-4 hover:text-orange">Demos</a>
               </div>
             </div>
           </div>
