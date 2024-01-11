@@ -7,8 +7,7 @@
             <a href="/" class="text-3 text-black sm:text-4">G.w</a>
             <div class="md:flex space-x-4">
               <a href="/projetos" class="text-3 text-black sm:text-4 hover:text-orange">Projetos</a>
-              <a href="/skills" class="text-3 text-black sm:text-4 hover:text-orange">Skills</a>
-              <a href="/contato" class="text-3 text-black sm:text-4 hover:text-orange">Contato</a>
+              <a href="/demos" class="text-3 text-black sm:text-4 hover:text-orange">Demos</a>
             </div>
           </div>
         </div>

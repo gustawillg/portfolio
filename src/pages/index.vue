@@ -9,8 +9,7 @@
               <div class="md:flex space-x-4">
                 <!-- Links visíveis na versão desktop -->
                 <a href="/projetos" class="text-3 text-black sm:text-4 hover:text-orange">Projetos</a>
-                <a href="/skills" class="text-3 text-black sm:text-4 hover:text-orange">Skills</a>
-                <a href="/contato" class="text-3 text-black sm:text-4 hover:text-orange">Contato</a>
+                <a href="/demos" class="text-3 text-black sm:text-4 hover:text-orange">Demos</a>
               </div>
             </div>
           </div>
@@ -47,9 +46,7 @@
               Me ache em:<a href="https://github.com/gustawillg" target="_blank">GitHub</a>
             </p>
             <p flex="~ gap-3 wrap" class="mt--2">
-              Contato: <a
-                href="mailto:gustavowilliancontato@gmail.com"
-              />
+              Contato: <a href="mailto:gustavowilliancontato@gmail.com">Email</a>
             </p>
           </div>
         </article>
