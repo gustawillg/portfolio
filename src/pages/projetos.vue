@@ -28,13 +28,7 @@ const products = [
     imageSrc: '/images/calculadora.png',
     imageAlt: 'Calculadora com theme changer.',
   },
-  {
-    id: 1,
-    name: 'Calculadora com theme changer.',
-    href: 'https://github.com/gustawillg/calculadora',
-    imageSrc: '/images/calculadora.png',
-    imageAlt: 'Calculadora com theme changer.',
-  },
+
 // More products...
 ]
 </script>
