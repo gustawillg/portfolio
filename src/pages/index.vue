@@ -43,10 +43,13 @@
               <a href="/projects">todos meus projetos estão aqui</a>.
             </p>
 
-            <div flex-auto="" />
-            <p>Me ache em:</p>
             <p flex="~ gap-3 wrap" class="mt--2!">
-              <a href="https://github.com/gustawillg" target="_blank">GitHub</a>
+              Me ache em:<a href="https://github.com/gustawillg" target="_blank">GitHub</a>
+            </p>
+            <p flex="~ gap-3 wrap" class="mt--2">
+              Contato: <a
+                href="mailto:gustavowilliancontato@gmail.com"
+              />
             </p>
           </div>
         </article>
